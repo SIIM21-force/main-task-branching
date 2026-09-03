@@ -1,0 +1,7 @@
+# misc files
+TASK 4 DEV.pdf
+
+# sensitive files
+.env
+__pycache__/
+node_modules/
